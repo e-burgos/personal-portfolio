@@ -1,0 +1,10 @@
+{
+    "id": "footer-data-1",
+    "section": "footer-english",
+    "copyright_text": "All rights reserved by <a href='https://www.linkedin.com/in/estebanburgos/'>Esteban Burgos.</a>",
+    "logo": [
+        {
+            "src": "../images/cv/others/profile.jpg"
+        }
+    ]
+}

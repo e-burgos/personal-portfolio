@@ -1,0 +1,18 @@
+{
+    "id": "header-data-1",
+    "section": "header-english",
+    "button": {
+        "id": 1,
+        "content": "SPANISH VERSION",
+        "path": "/spanish"
+    },
+    "logo": [
+        {
+            "src": "../images/cv/others/profile.jpg"
+        },
+        {
+            "src": "../images/cv/others/profile.jpg"
+        }
+    ],
+    "slogan": "Wellcome to my personal portfolio."
+}

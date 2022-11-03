@@ -1,0 +1,31 @@
+{
+    "id": "main-menu-english",
+    "section": "menu-english",
+    "menu": [
+        {
+            "id": 1,
+            "text": "About Me",
+            "path": "home"
+        },
+        {
+            "id": 2,
+            "text": "Resume",
+            "path": "resume"
+        },
+        {
+            "id": 3,
+            "text": "Portfolio",
+            "path": "portfolio"
+        },
+        {
+            "id": 4,
+            "text": "Skills",
+            "path": "clients"
+        },
+        {
+            "id": 5,
+            "text": "Contact",
+            "path": "contacts"
+        }
+    ]
+}
